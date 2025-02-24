@@ -1,0 +1,1 @@
+from src.datascience.entity.config_entity import DataIngestionConfig
