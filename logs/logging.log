@@ -1,3 +1,41 @@
 [2025-02-24 15:19:58,593: INFO: main]: We are testing our logger
 [2025-02-24 15:25:16,608: INFO: main]: We are testing our logger
 [2025-02-24 15:25:18,707: INFO: main]: We are testing our logger
+[2025-02-24 16:58:11,817: INFO: common]: yaml file: config/config.yaml loaded successfully
+[2025-02-24 16:58:11,824: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-02-24 16:58:42,548: INFO: common]: yaml file: config/config.yaml loaded successfully
+[2025-02-24 16:58:42,551: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-02-24 16:58:42,553: INFO: common]: yaml file: schemas.yaml loaded successfully
+[2025-02-24 16:58:42,554: INFO: common]: created directory at: artifacts
+[2025-02-24 17:01:01,665: INFO: common]: yaml file: config/config.yaml loaded successfully
+[2025-02-24 17:01:01,669: INFO: common]: yaml file: params.yaml loaded successfully
+[2025-02-24 17:01:01,671: INFO: common]: yaml file: schemas.yaml loaded successfully
+[2025-02-24 17:01:01,672: INFO: common]: created directory at: artifacts
+[2025-02-24 17:01:01,672: INFO: common]: created directory at: artifacts/data_ingestion
+[2025-02-24 17:01:05,026: INFO: 3365262817]: artifacts/data_ingestion/winequality-data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 3754:68F6D:1BC37:3797C:67BC5878
+Accept-Ranges: bytes
+Date: Mon, 24 Feb 2025 11:31:05 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10250-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1740396665.767446,VS0,VE251
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 63369da55a16144b3951fef1a84bc5f732470ef1
+Expires: Mon, 24 Feb 2025 11:36:05 GMT
+Source-Age: 0
+
+

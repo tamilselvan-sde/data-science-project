@@ -8,6 +8,7 @@ from box import ConfigBox
 from pathlib import Path
 from typing import Any
 from box.exceptions import BoxValueError
+from pathlib import Path
 
 #------------------------------------------------
 #              read yaml file
